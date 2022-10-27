@@ -1,1 +1,1 @@
-# github-bot
+# github-bot command: npm i random
